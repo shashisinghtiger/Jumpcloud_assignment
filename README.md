@@ -5,7 +5,7 @@ Import **new** users and **update** existing JumpCloud users from CSV.
 
 # 1) Clone
 git clone https://github.com/shashisinghtiger/Jumpcloud_assignment.git
-change direcotry to the project folder - cd Jumpcloud_assignment
+change directory to the project folder - cd Jumpcloud_assignment
 
 # 2) Create venv
 python -m venv venv
