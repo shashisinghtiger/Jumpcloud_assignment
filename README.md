@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 > Requires **Python 3.11.4 or later and **Git**
 
-# 4) Configure API Key
+# 4) Configure API Key - PUT YOUR API KEY
 Update or create the **config.ini** in the project root with the following inputs:
 [jumpcloud]
 # REQUIRED
