@@ -30,7 +30,7 @@ ORG_ID = none #update this if using a multi-tenant (NOTE: THIS IS NOT TESTED)
 
 # 5) Run the script
 Run the script with the CSV path. Example Usage:
-python jumpcloud_import.py <users.csv>
+python jumpcloud_import.py day_0.csv
 
 
 ## CSV format
