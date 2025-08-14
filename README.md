@@ -23,7 +23,7 @@ Update or create the **config.ini** in the project root with the following input
 [jumpcloud]
 # REQUIRED
 API_KEY = your_jumpcloud_api_key
-# OPTIONAL (defaults shown)
+# OPTIONAL (defaults shown - DO NOT CHANGE)
 BASE_URL = https://console.jumpcloud.com/api
 TIMEOUT = 30
 ORG_ID = none #update this if using a multi-tenant (NOTE: THIS IS NOT TESTED)
